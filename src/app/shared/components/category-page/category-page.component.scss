@@ -1,0 +1,58 @@
+input{
+    border-radius: 4px;
+    height: 40px;
+    padding:0 10px 0 30px;
+    border: none;
+    background-color: #f0f0f6;
+    width: 100%;
+}
+
+input:focus {
+    outline: #5e56e7;
+    border: 1px solid #5e56e7;
+    color: #333333;
+}
+
+.input-search{
+    position: absolute;
+    top: 10px;
+    left: 22px;
+}
+
+.back-arrow{
+    top: 10px;
+    position: relative;
+}
+
+.books{
+    height: 162px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px 0 rgba(211, 209, 238, 0.5);
+}
+
+.book-details{
+    font-size: 12px;
+}
+
+.book-contianer{
+    width: 114px;
+}
+
+.book-author{
+    color: #a0a0a0;
+}
+
+.book-bg{
+    background-color: #f8f7ff;
+}
+
+.height-100{
+    min-height: 100vh;
+}
+
+.cross-icon{
+    position: absolute;
+    right: 24px;
+    top: 13px;
+}
+
