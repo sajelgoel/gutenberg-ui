@@ -1,9 +1,13 @@
-#Setup
+# Setup
 
 Install Node JS in local,
+
 Setup Angular 9,
-To download dependency write : "npm install"
+
+To download dependency write : "npm install",
+
 To run project: "ng serve"
+
 goto: "localhost:4200" in browser
 
 # Bookstore
