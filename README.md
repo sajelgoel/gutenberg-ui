@@ -1,3 +1,11 @@
+#Setup
+
+Install Node JS in local,
+Setup Angular 9,
+To download dependency write : "npm install"
+To run project: "ng serve"
+goto: "localhost:4200" in browser
+
 # Bookstore
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.12.
